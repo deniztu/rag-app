@@ -5,6 +5,10 @@ This project is based on a data science project I worked on as a freelancer. It 
 ## Demo
 
 
+https://github.com/user-attachments/assets/52045e65-622b-4c83-ae23-faae2ad9eecb
+
+
+
 ## Features
 
 - **Retrieval-Augmented Generation**: Combines retrieval mechanisms with generative AI for enhanced performance.
