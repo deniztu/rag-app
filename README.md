@@ -2,6 +2,8 @@
 
 This project is based on a data science project I worked on as a freelancer. It demonstrates the implementation of a Streamlit application that uses Retrieval-Augmented Generation to solve search for products.
 
+Based on the question the system routes between a vector database or a sql database. For transparency the relevant pdf document is shown to the user.
+
 ## Demo
 
 
